@@ -1,0 +1,15 @@
+{
+    "scripts": {
+      "start": "node launcher"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-ws": "^5.0.2",
+        "open": "^8.2.1",
+        "util": "^0.12.3"
+    },
+    "engines": {
+      "node": "16.x"
+    }
+  }
+  

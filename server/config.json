@@ -1,0 +1,24 @@
+{
+  "width": 4000,
+  "height": 4000,
+  "terminalAccessConfig": [
+    "TERMINALACCESSCONFIG_ay2868vQc9w865jPcKw89O6WNc6jAMBq_TERMINALACCESSCONFIG"
+  ],
+  "hostClient": true,
+  "mapBorderSize": 350,
+  "mapChangesToPlayerAmount": false,
+  "maxShapesDependsOnMapSize": false,
+  "maxShapes": 10,
+  "port": 8080,
+  "tierConfig": {
+    "tier1": 15,
+    "tier2": 30,
+    "tier3": 45
+  },
+  "baseSizeConfig": {
+    "2tdm": 12
+  },
+  "gm": "ffa",
+  "developerPowers": true,
+  "publicCheatingLevel": 1
+}
